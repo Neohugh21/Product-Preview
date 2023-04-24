@@ -95,7 +95,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     border-radius: 0.5rem;
     overflow: hidden;
-    max-width: 800px;
+    max-width: 600px;
 }
 
 /* Media Query */
@@ -126,7 +126,7 @@ body {
 }
 
 .product__title {
-    font-size: 1.8rem;
+    font-size: 1.850rem;
     font-family: 'Fraunces', serif;
     font-weight: var(--fw-bold);
     color: var(--Very-dark-blue);
